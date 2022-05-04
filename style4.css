@@ -32,3 +32,6 @@ nav{width:80%;overflow:hidden;height:20px;margin:50px auto}
     text-align: center;
   }
 
+  img:hover {
+      opacity: 0.5;
+  } 
